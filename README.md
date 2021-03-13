@@ -22,7 +22,7 @@ Hi, my name is *Muhammad Aazam Sultan*, a student developer from Pakistan. I am 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faatehsultan&layout=compact&langs_count=10) <img src="https://media.giphy.com/media/mz1kJeDVueKC4/giphy.gif" width="160px"> <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="160px">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AazamJutt&layout=compact&langs_count=10) <img src="https://media.giphy.com/media/mz1kJeDVueKC4/giphy.gif" width="160px"> 
 
 ---
 
